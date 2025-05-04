@@ -1,4 +1,4 @@
-<p align="center">
+pip pipx'i yükle<p align="center">
 <a href="https://pipx.pypa.io">
 <img align="center" src="https://github.com/pypa/pipx/raw/main/logo.svg" width="200"/>
 </a>
